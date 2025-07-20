@@ -1,0 +1,34 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación de Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Configuración de proyectos
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Backups de Blender
+*.blend1
+*.blend2
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Git LFS tracking
+.gitattributes
+
+# Ignorar carpetas de usuario
+*.user
+*.userprefs
