@@ -1,0 +1,1 @@
+## Toda la arquitectura de la casa (paredes, piso, techo, etc.)

@@ -1,0 +1,1 @@
+## Todos los detalles arquitectónicos (ventanas, puertas, columnas, etc.)
