@@ -1,0 +1,1 @@
+En está carpeta se encuentran todos las habitaciones ennumeradas. Dentro de la carpeta docs están las imagenes de referencia para empezar a modelar

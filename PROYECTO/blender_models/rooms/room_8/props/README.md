@@ -1,0 +1,1 @@
+# Objetos pequeños (cuadros, lámparas, etc.)

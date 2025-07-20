@@ -1,0 +1,1 @@
+# muebles, objetos decorativos

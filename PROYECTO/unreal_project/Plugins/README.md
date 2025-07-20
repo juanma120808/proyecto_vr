@@ -1,0 +1,1 @@
+## plugins necesarios para VR o interacción

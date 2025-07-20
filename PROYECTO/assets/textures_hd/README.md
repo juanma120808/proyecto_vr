@@ -1,0 +1,1 @@
+## Texturas originales de alta resolución

@@ -1,0 +1,1 @@
+## Lógica del juego visual (VR, interacción)
