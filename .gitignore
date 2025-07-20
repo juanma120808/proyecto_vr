@@ -27,7 +27,6 @@ Saved/
 *.bak
 
 # Git LFS tracking
-.gitattributes
 
 # Ignorar carpetas de usuario
 *.user
